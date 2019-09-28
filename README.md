@@ -42,4 +42,4 @@ Etapas:
     • Parte funcional;
     • Parte estética;
 
-<img src="imagemtrab." alt="some text" width=500 height=300>
+<img src="imagemtrab.png" alt="some text" width=500 height=300>
