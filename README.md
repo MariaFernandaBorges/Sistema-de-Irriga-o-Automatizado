@@ -1,5 +1,45 @@
-O projeto “Sistema de irrigação automatizado” tem como objetivo a criação de um dispositivo que se comunica com um aplicativo para monitorar uma planta e auxiliar no processo de irrigação.
-O sensor de solo detecta as variações de umidade no local onde a sonda está enterrada. O módulo possui duas saídas, uma analógica e outra digital. A saída analógica é a saída do sensor em si, ela varia de acordo com a umidade do solo. A saída digital é a de um comparador LM393, que fornece apenas níveis altos e baixos. Para controles de precisão maior é recomendado usar a saída analógica, assim você pode escalonar várias faixas de atuação para o seu sistema. Usando a saída digital você faz apenas um controle ON/OFF baseado em dois limites de leitura do sensor.
-O princípio de funcionamento é simples. Como você pode ver na imagem abaixo, o módulo possui duas hastes com dois longos contatos cada. Trata-se de um sensor cuja resistência elétrica varia de acordo com a umidade do solo. Assim, quanto mais úmido estiver o solo, menor a resistência do sensor. Quanto mais seco, maior a resistência do sensor.
-Com a saída digital(D0), o funcionamento básico é o seguinte: Quando a umidade está baixa(solo seco), a saída fica em nível alto. Do contrário(solo úmido), a saída fica em nível baixo. Um pequeno potenciômetro embutido no sensor é usado para ajustar os limites de referência. 
-<img src="protótipo.png" alt="some text" width=500 height=300>
+Projeto Sistema de Jardinagem Automatizado com acesso remoto via smartphone
+Objetivo: Realizar a irrigação automatizada e monitorar a temperatura e a quantidade de luminosidade da planta de acordo com suas recomendações biológicas.
+Entradas:
+    • Sensor de Temperatura 
+    • Sensor de Umidade
+    • Sensor de Temperatura do Solo
+    • Botão Bomba ON/OFF
+    • Botão Lampada ON/OFF
+Saídas:
+    • Atuadores:
+        ◦ Relé para controle da bomba
+        ◦ Relé para controle de lâmpada
+    • Mensagens automáticas devem ser enviadas na ocorrência de eventos, tais como:
+        ◦ Bomba LIGADA
+        ◦ Lâmpada LIGADA
+        ◦ Sistema off-line
+    • Exibição de dados:
+        ◦ Todos os dados analógicos e digitais devem estar disponíveis para avaliação imediata
+    • Armazenamento de dados
+        ◦ Dados históricos devem ser armazenados remotamente
+          
+Componentes:
+    •  Placa Wi-Fi NodeMCU WiFi Internet ESP8266
+    • Sensor de Temperatura e Umidade Relativa do ArDHT22
+    • Cabo À Prova D 'Água Digital Sensor de Temperatura Sonda Térmica DS18B20
+    •  Sensor de Umidade do Solo
+    •  Display de LED 
+    •  Botões 
+    •  LEDs 
+    • Relé acionador de Nível Alto
+    • Jumps 
+    • Protoboard
+    • Resistores
+    • Fonte 5V/2A
+      
+Etapas:
+    1. Elaborar o código
+    2. Fazer as simulações e correções
+    3. Fazer a lista de materiais para implementação do sistema 
+    4. Compilar o código com o app de acesso remoto via smartphone 
+    5. Implementar o sistema: 
+    • Parte funcional;
+    • Parte estética;
+
+<img src="imagemtrab." alt="some text" width=500 height=300>
