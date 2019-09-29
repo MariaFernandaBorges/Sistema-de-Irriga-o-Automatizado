@@ -7,6 +7,7 @@ Matheus Guimarães
 Nathan Rafael 
 Thalles 
 
+
 Objetivo: Realizar a irrigação automatizada e monitorar a temperatura e a quantidade de luminosidade da flor de Girasol de acordo com suas recomendações biológicas.
 Entradas:
     • Sensor de Temperatura 
@@ -14,6 +15,8 @@ Entradas:
     • Sensor de Temperatura do Solo
     • Botão Bomba ON/OFF
     • Botão Lampada ON/OFF
+
+
 Saídas:
     • Atuadores:
         ◦ Relé para controle da bomba
@@ -25,9 +28,9 @@ Saídas:
     • Exibição de dados:
         ◦ Todos os dados analógicos e digitais devem estar disponíveis para avaliação imediata
     • Armazenamento de dados
-        ◦ Dados históricos devem ser armazenados remotamente
+  
           
-Componentes:
+Componentes para Montagem:
     •  Placa Wi-Fi NodeMCU WiFi Internet ESP8266
     • Sensor de Temperatura e Umidade Relativa do ArDHT22
     • Cabo À Prova D 'Água Digital Sensor de Temperatura Sonda Térmica DS18B20
@@ -40,7 +43,8 @@ Componentes:
     • Protoboard
     • Resistores
     • Fonte 5V/2A
-      
+  
+  
 Etapas:
     1. Elaborar o código
     2. Fazer as simulações e correções
@@ -50,4 +54,6 @@ Etapas:
     • Parte funcional;
     • Parte estética;
 
-<img src="diagramadeblocos.png" alt="some text" width=500 height=300>
+
+
+<img src="diagramdeblocos.png" alt="some text" width=500 height=300>
