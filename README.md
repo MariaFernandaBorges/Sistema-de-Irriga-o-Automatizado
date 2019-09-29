@@ -1,5 +1,13 @@
 Projeto Sistema de Jardinagem Automatizado com acesso remoto via smartphone
-Objetivo: Realizar a irrigação automatizada e monitorar a temperatura e a quantidade de luminosidade da planta de acordo com suas recomendações biológicas.
+
+Componetnes:
+João Gabriel 
+Maria Fernanda 
+Matheus Guimarães
+Nathan Rafael 
+Thalles 
+
+Objetivo: Realizar a irrigação automatizada e monitorar a temperatura e a quantidade de luminosidade da flor de Girasol de acordo com suas recomendações biológicas.
 Entradas:
     • Sensor de Temperatura 
     • Sensor de Umidade
@@ -42,4 +50,4 @@ Etapas:
     • Parte funcional;
     • Parte estética;
 
-<img src="imagemtrab.png" alt="some text" width=500 height=300>
+<img src="diagramadeblocos.png" alt="some text" width=500 height=300>
