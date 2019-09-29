@@ -1,6 +1,6 @@
 Projeto Sistema de Jardinagem Automatizado com acesso remoto via smartphone
 
-Componetnes:
+Integrantes do Grupo:
 João Gabriel 
 Maria Fernanda 
 Matheus Guimarães
