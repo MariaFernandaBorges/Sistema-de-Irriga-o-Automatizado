@@ -13,7 +13,9 @@
 </ul>
 <p><strong>Objetivo:</strong> Realizar a irriga&ccedil;&atilde;o automatizada e monitorar a temperatura e a quantidade de luminosidade da flor de Girasol de acordo com suas recomenda&ccedil;&otilde;es biol&oacute;gicas.</p>
 <p><br /><strong>Entradas:</strong> Sensor de Temperatura ,Sensor de Umidade ,Sensor de Temperatura do Solo,Bot&atilde;o Bomba ON/OFF.Bot&atilde;o Lampada ON/OFF</p>
-<p><strong>Sa&iacute;das:</strong>Rel&eacute; para controle da bomba,Rel&eacute; para controle de l&acirc;mpada<br /> <br /><strong>Componentes para Montagem:</strong></p>
+<p><strong>Sa&iacute;das:</strong>Rel&eacute; para controle da bomba,Rel&eacute; para controle de l&acirc;mpada</p>
+<p><img src="https://github.com/MariaFernandaBorges/Sistema-de-Irriga-o-Automatizado/blob/master/diagrama%20de%20blocos.png" alt="" width="400" height="400" /></p>
+<p><br /><strong>Componentes para Montagem:</strong></p>
 <ul>
 <li>Placa Wi-Fi NodeMCU WiFi Internet ESP8266,</li>
 <li>Sensor de Temperatura e Umidade Relativa do ArDHT22,</li>
@@ -40,5 +42,3 @@
 </ol>
 </li>
 </ol>
-
-
