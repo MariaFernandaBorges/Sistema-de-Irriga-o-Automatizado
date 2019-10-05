@@ -43,7 +43,7 @@
 </ol>
 </li>
 </ol>
-<p>&nbsp; &nbsp; &nbsp; <strong>Descri&ccedil;&otilde;es de cultivo Flor Copo de Leite:</strong></p>
+<p><strong>Descri&ccedil;&otilde;es de cultivo Flor Copo de Leite -&nbsp;Zantedeschia aethiopica Spreng :</strong></p>
 <ul>
 <li>Temperatura de sobreviv&ecirc;ncia: 13 &deg;C &lt; T &lt; 24 &deg;C (para ambientes fechados)</li>
 <li>Plantio em vasos com 13-20 cm de profundidade se voc&ecirc; for plantar os copos-de-leite em um ambiente fechado.</li>
