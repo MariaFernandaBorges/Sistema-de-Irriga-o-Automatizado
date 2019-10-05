@@ -52,5 +52,5 @@
 <li>Apesar de gostar e precisar de muita luz o Copo de Leite &eacute; tamb&eacute;m bastante sens&iacute;vel &agrave; incid&ecirc;ncia do sol diretamente. O recomendado &eacute; que o sombreamento fique entre 25% a 50%, quanto melhor for o sombreamento mais desenvolvidas ficar&atilde;o as hastes florais.</li>
 <li>Plantio para as flores Copo de Leite n&atilde;o seja encharcado, pois muita &aacute;gua no ambiente pode propiciar ao surgimento de fungos e bact&eacute;rias que podem prejudicar o desenvolvimento da planta.</li>
 </ul>
-<p><a href="https://github.com/MariaFernandaBorges/Sistema-de-Irriga-o-Automatizado/blob/master/diagrama%20de%20blocos.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/MariaFernandaBorges/Sistema-de-Irriga-o-Automatizado/raw/master/diagrama%20de%20blocos.png" alt="" width="500" height="400" /></a></p>
-<p><br /><strong>Componentes para Montagem:</strong></p>
+<p><a href="https://github.com/MariaFernandaBorges/Sistema-de-Irriga-o-Automatizado/blob/master/copo%20de%20leite.jpg" target="_blank" rel="noopener noreferrer"><img src="https://github.com/MariaFernandaBorges/Sistema-de-Irriga-o-Automatizado/blob/master/copo%20de%20leite.jpg" alt="" width="500" height="400" /></a></p>
+
