@@ -1,7 +1,5 @@
 <p><strong>Projeto Sistema de Jardinagem Automatizado com acesso remoto via smartphone</strong></p>
-<p>&nbsp;</p>
-<ul>
-<li><strong>Integrantes do Grupo:</strong>
+<p><strong>Integrantes do Grupo:</strong></p>
 <ul>
 <li>&Eacute;der Lima</li>
 <li>Jo&atilde;o Gabriel</li>
@@ -9,8 +7,6 @@
 <li>Matheus Guimar&atilde;es</li>
 <li>Nathan Rafael</li>
 <li>Thalles</li>
-</ul>
-</li>
 </ul>
 <p><strong>Objetivo:</strong>&nbsp;Realizar a irriga&ccedil;&atilde;o automatizada e monitorar a temperatura e a quantidade de luminosidade da flor de Copo de Leite de acordo com suas recomenda&ccedil;&otilde;es biol&oacute;gicas.</p>
 <p><br /><strong>Entradas:</strong>&nbsp;Sensor de Temperatura ,Sensor de Umidade ,Sensor de Temperatura do Solo,Bot&atilde;o Bomba ON/OFF.Bot&atilde;o Lampada ON/OFF</p>
