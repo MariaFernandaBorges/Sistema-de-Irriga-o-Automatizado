@@ -32,8 +32,8 @@
 <li dir="auto">Sensor de temperatura: captar a temperatura presente a um certo raio do ponto de fixa&ccedil;&atilde;o e enviar essa informa&ccedil;&atilde;o para o NodeMCU;</li>
 <li dir="auto">L&acirc;mpada incandescente: ser&aacute; usada como para fornecer calor caso o valor de temperatura enviado pelo sensor seja inferior a de set point. Controlando a temperatura da planta para que ela esteja dentro da regi&atilde;o de temperatura de sobrevivencia;</li>
 <li dir="auto">Sensor de umidade: verificar a umidade presente no solo da planta, diferente do sensor de temperatura que estar&aacute; sobreposto e n&atilde;o enterrado.</li>
-<li dir="auto">Bomba d'agua: ser&aacute; usada para aumentar a umidade do solo levando como base o valor enviado pelo sensor de umidade. Tamb&eacute;m ir&aacute; respeitar um valor de set Point.</li>
-<li dir="auto">Os LED's s&atilde;o para sinaliza&ccedil;&atilde;o da bomba e da l&acirc;mpada caso estejam acionadas.</li>
+<li dir="auto">Bomba d'agua: ser&aacute; usada para aumentar a umidade do solo levando como base o valor enviado pelo sensor de umidade. Tamb&eacute;m ir&aacute; respeitar um valor de set Point;</li>
+<li dir="auto">Os LED's s&atilde;o para sinaliza&ccedil;&atilde;o da bomba e da l&acirc;mpada caso estejam acionadas;</li>
 <li dir="auto">As boteiras ter&atilde;o a finalidade de for&ccedil;amos a sa&iacute;das (Bomba d'agua ou l&acirc;mpada) caso seja preciso, sendo essas somente duas boteiras. A terceira &eacute; para acionarmos o sistema supervisorio (o Display OLED) com o intuito de visualizarmos os par&acirc;metros daquele exato instante.</li>
 </ul>
 <p><strong>&nbsp; &nbsp;</strong><em>Ou seja, as grandezas controladas &eacute; temperatura minima e umidade m&iacute;nima. N&atilde;o ser&aacute; possivel controlar os valores m&aacute;ximos dessas duas grandezas pois n&atilde;o temos agentes para combate-las caso essa situa&ccedil;&atilde;o ocorra.</em></p>
