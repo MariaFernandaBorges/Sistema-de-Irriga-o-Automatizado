@@ -16,20 +16,20 @@
 <p><strong>Sa&iacute;das:</strong>Rel&eacute; para controle da bomba,Rel&eacute; para controle de l&acirc;mpada</p>
 <p><a href="https://github.com/MariaFernandaBorges/Sistema-de-Irriga-o-Automatizado/blob/master/diagrama%20de%20blocos.png"><img src="https://github.com/MariaFernandaBorges/Sistema-de-Irriga-o-Automatizado/raw/master/diagrama%20de%20blocos.png" alt="" width="500" height="400" /></a><strong>Lista de Materiais:</strong></p>
 <ul>
-<li>Placa Wi-Fi NodeMCU WiFi Internet ESP8266,</li>
-<li>Sensor de Temperatura Sonda T&eacute;rmica DS18B20</li>
-<li>Sensor de Umidade do Solo</li>
-<li>Display de LED&nbsp;</li>
-<li>Botoeiras Sinalizadoras</li>
-<li>M&oacute;dulo rel&eacute; de dois canais 3.3V</li>
-<li>Jumps,</li>
-<li>Protoboard</li>
-<li>Fonte 5V/2A</li>
-<li>Regulador de tens&atilde;o 5V para 3.3V</li>
-<li>L&acirc;mpada Incandescente&nbsp;</li>
-<li>Bomba D'&Aacute;gua&nbsp;</li>
-<li>Fio paralelo</li>
-<li>Cabo USB</li>
+<li>Placa Wi-Fi NodeMCU WiFi Internet ESP8266;</li>
+<li>Sensor de Temperatura DS18B20;</li>
+<li>Sensor de Umidade do Solo;</li>
+<li>Display de LED;</li>
+<li>Botoeiras Sinalizadoras;</li>
+<li>M&oacute;dulo rel&eacute; de dois canais 3.3V;</li>
+<li>Jumps;</li>
+<li>Protoboard;</li>
+<li>Fonte 5V/2A;</li>
+<li>Regulador de tens&atilde;o 5V para 3.3V;</li>
+<li>L&acirc;mpada Incandescente;</li>
+<li>Bomba D'&Aacute;gua;&nbsp;</li>
+<li>Fio paralelo;</li>
+<li>Cabo USB;</li>
 </ul>
 <p></p>
 <p></p>
