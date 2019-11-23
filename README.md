@@ -1,6 +1,6 @@
 <p><strong>Projeto Sistema de Jardinagem Automatizado com acesso remoto via smartphone</strong></p>
 <p></p>
-<p><img src="https://github.com/MariaFernandaBorges/Sistema-de-Irriga-o-Automatizado/blob/master/imagem%20nova.jpg" alt="Apresenta&ccedil;&atilde;o" /></p>
+<p><img src="https://github.com/MariaFernandaBorges/Sistema-de-Irriga-o-Automatizado/blob/master/imagem%20nova.jpg" alt="Apresenta&ccedil;&atilde;o" width="400" height="500" /></p>
 <p></p>
 <p><strong>Integrantes do Grupo:</strong></p>
 <ul>
@@ -11,7 +11,7 @@
 <li>Nathan Rafael</li>
 <li>Thalles</li>
 </ul>
-<p><strong>Objetivo:</strong>&nbsp;Realizar a irriga&ccedil;&atilde;o automatizada e monitorar a temperatura e a quantidade de luminosidade de uma planta.</p>
+<p><strong>Objetivo:</strong>&nbsp;Realizar a irriga&ccedil;&atilde;o automatizada e monitorar a temperatura de uma planta.</p>
 <p><br /><strong>Entradas:</strong>&nbsp;Sensor de Temperatura ,Sensor de Umidade ,Sensor de Temperatura do Solo,Bot&atilde;o Bomba ON/OFF.Bot&atilde;o Lampada ON/OFF</p>
 <p><strong>Sa&iacute;das:</strong>Rel&eacute; para controle da bomba,Rel&eacute; para controle de l&acirc;mpada</p>
 <p><a href="https://github.com/MariaFernandaBorges/Sistema-de-Irriga-o-Automatizado/blob/master/diagrama%20de%20blocos.png"><img src="https://github.com/MariaFernandaBorges/Sistema-de-Irriga-o-Automatizado/raw/master/diagrama%20de%20blocos.png" alt="" width="500" height="400" /></a><strong>Lista de Materiais:</strong></p>
@@ -62,5 +62,4 @@
 <p><img src="https://github.com/MariaFernandaBorges/Sistema-de-Irriga-o-Automatizado/blob/master/Screenshot_20191111-195135_Blynk.jpg" alt="Monitoramento via app 1" /></p>
 <p></p>
 <p></p>
-<p><img src="https://github.com/MariaFernandaBorges/Sistema-de-Irriga-o-Automatizado/blob/master/Screenshot_20191111-195137_Blynk.jpg" alt="Monitoramento via app 2" /></p>
-<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong><a href="https://github.com/MariaFernandaBorges/Sistema-de-Irriga-o-Automatizado/blob/master/copo%20de%20leite.jpg"></a></p>
+<p><img src="https://github.com/MariaFernandaBorges/Sistema-de-Irriga-o-Automatizado/blob/master/Screenshot_20191111-195137_Blynk.jpg" alt="Monitoramento via app 2" 
