@@ -62,4 +62,5 @@
 <p><img src="https://github.com/MariaFernandaBorges/Sistema-de-Irriga-o-Automatizado/blob/master/Screenshot_20191111-195135_Blynk.jpg" alt="Monitoramento via app 1" /></p>
 <p></p>
 <p></p>
-<p><img src="https://github.com/MariaFernandaBorges/Sistema-de-Irriga-o-Automatizado/blob/master/Screenshot_20191111-195137_Blynk.jpg" alt="Monitoramento via app 2" 
+<p><img src="https://github.com/MariaFernandaBorges/Sistema-de-Irriga-o-Automatizado/blob/master/Screenshot_20191111-195137_Blynk.jpg" alt="Monitoramento via app 2" /></p>
+<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong><a href="https://github.com/MariaFernandaBorges/Sistema-de-Irriga-o-Automatizado/blob/master/copo%20de%20leite.jpg"></a></p>
